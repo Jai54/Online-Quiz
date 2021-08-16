@@ -1,4 +1,4 @@
-# Online-Quiz
+# Online-Quiz (Java)
 
 This is a complete Java application. Which is implemented to perform the online Quiz for the student. Where an admin can add manages online quiz questions and Types of the Quiz depends on the category. As a user can give and check their result after successful login.
 
